@@ -8,5 +8,5 @@
 6) Elije: "Abrir ventana de PowerShell aquí".
 7) Escribe: git clone y pega la dirección que copiaste. En nuestro caso, quedaría:
 ```bash
- git clone https://github.com/Leonardo-Valtorta/codigo-cafe.git.
+ git clone https://github.com/Leonardo-Valtorta/prueba.git.
 ```
